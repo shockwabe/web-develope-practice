@@ -1,0 +1,41 @@
+body {
+  color: rgb(255, 255, 255);
+  background-color: black;
+}
+h1 {
+  margin: 10px;
+}
+
+ol {
+  background-color: rgb(40, 37, 37);
+  border-radius: 4px;
+  border: 1px solid rgb(50, 45, 45);
+  font-family: "Fira Sans", sans-serif;
+  list-style: none;
+  width: 500px;
+  margin: 10px auto 0 auto;
+  padding: 0;
+  padding-bottom: 20px;
+  display: inline-block; 
+}
+main p {
+  margin: 12px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+#tf {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  font-family: "oswald", sans-serif;
+}
+a {
+  color: rgb(255, 255, 255);
+  border-radius: 4px;
+  display: inline-block;
+  margin: 5px 0;
+  font-family: "oswald", sans-serif;
+}
